@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image to Voice</string>
+    <string name="action_settings">Settings</string>
+    <string name="ocr_space_api_key">50e2b972cd88957</string>
+    <string name="voice_rss_api_key">146d1d1282c6491b9b7cc382ac91d139</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
